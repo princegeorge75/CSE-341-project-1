@@ -16,5 +16,8 @@
     "url": "https://github.com/princegeorge75/CSE-341-project-1/issues"
   },
   "homepage": "https://github.com/princegeorge75/CSE-341-project-1#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
