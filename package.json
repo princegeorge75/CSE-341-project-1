@@ -18,6 +18,9 @@
   "homepage": "https://github.com/princegeorge75/CSE-341-project-1#readme",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0"
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.13.2"
   }
 }
